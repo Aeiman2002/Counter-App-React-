@@ -1,16 +1,28 @@
-# React + Vite
+# Counter App - React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project serves as a beginner-friendly React application that implements a basic counter with clean styling using Tailwind CSS. It can be used as a foundation for more advanced UI components or as a learning resource to understand React fundamentals
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img width="1598" height="732" alt="image" src="https://github.com/user-attachments/assets/f536588f-88de-45e1-8b33-95b2459d11a8" />
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- Increment counter
+- Decrement counter
+- Reset counter
+- Responsive UI layout with Tailwind CSS
+  
+## 📍 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** — UI library
+- **Vite** — Development tooling and bundler
+- **Tailwind CSS** — Utility-first CSS framework
+- **JavaScript (ES6+)** — Core language
+
+##  Share Your Feedback and Send Stars 
+
+## Contact Info:
+
+- 📩 Email: aeimanfayyaz2002@gmail.com
+- 📞 Conatct: +92 336 1136547
